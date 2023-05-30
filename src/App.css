@@ -3,3 +3,10 @@
   height: 100px;
   width: 100px;
 }
+
+.gameBoard {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 320px;
+}
